@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6144806754819134551}
   - component: {fileID: 6144806754820400063}
   - component: {fileID: 4414740681460687978}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Nebula_Green
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 6144806754818164255}
   m_LocalRotation: {x: 0.03599344, y: 0.7511931, z: -0.32545316, w: 0.57314366}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 10, y: 10, z: 10}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0

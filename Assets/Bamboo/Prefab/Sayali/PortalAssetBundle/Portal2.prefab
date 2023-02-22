@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 46028424527351506}
   - component: {fileID: 2549353075954499031}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Portal2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26,7 +26,7 @@ Transform:
   m_GameObject: {fileID: 858030524029359208}
   m_LocalRotation: {x: -0, y: -0.9092362, z: 0, w: -0.41628075}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalScale: {x: 70, y: 70, z: 100}
   m_Children:
   - {fileID: 6775220698412730661}
   - {fileID: 3556879742386526259}
@@ -61,7 +61,7 @@ GameObject:
   - component: {fileID: 6775220698412730661}
   - component: {fileID: 56869068332008087}
   - component: {fileID: 4156568482186916645}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Cylinder.008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143,7 +143,7 @@ GameObject:
   - component: {fileID: 3680369058674485893}
   - component: {fileID: 3071751627804527655}
   - component: {fileID: 516013892500129958}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Cylinder.009
   m_TagString: Untagged
   m_Icon: {fileID: 0}

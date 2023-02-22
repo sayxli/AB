@@ -1,0 +1,1302 @@
+Unity Editor version:    2020.3.19f1c2 (94354a08ed9f)
+Branch:                  2020.3/china_unity/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 13.1 (Build 22C65)
+Darwin version:          22.2.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.19f1c2/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/sayali/Post-ProcessingAB
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52856
+Successfully changed project path to: /Users/sayali/Post-ProcessingAB
+/Users/sayali/Post-ProcessingAB
+Using Asset Import Pipeline V2.
+AS: AutoStreaming module initializing.Refreshing native plugins compatible for Editor in 47.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.19f1c2 (94354a08ed9f)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.19f1c2/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/sayali/Post-ProcessingAB/Assets
+GfxDevice: creating device client; threaded=0
+2023-02-21 19:10:35.864 Unity[10988:336682] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2023-02-21 19:10:35.864 Unity[10988:336682] Metal devices available: 1
+2023-02-21 19:10:35.864 Unity[10988:336682] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2023-02-21 19:10:35.864 Unity[10988:336682] Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 645
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.19f1c2/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.19f1c2/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.19f1c2/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56988
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.19f1c2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001848 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 39.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.667 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4667ms)
+		BeginReloadAssembly (38ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (493ms)
+			LoadAssemblies (38ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (188ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (212ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (40ms)
+				BeforeProcessingInitializeOnLoad (32ms)
+				ProcessInitializeOnLoadAttributes (106ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004859 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.121 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1123ms)
+		BeginReloadAssembly (136ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (926ms)
+			LoadAssemblies (103ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (314ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (334ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (241ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.003851 seconds.
+
+LICENSE SYSTEM [2023221 19:10:42] Next license update check is after 2023-02-23T02:58:29
+
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.004689 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.19f1c2/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+2023-02-21 19:10:43.614 Unity[10988:336682] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600002f91260 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2023-02-21 19:10:43.617 Unity[10988:336682] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600002f97db0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.3 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 130 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 4.227298 ms (FindLiveObjects: 0.212098 ms CreateObjectMapping: 0.068494 ms MarkObjects: 3.048464 ms  DeleteObjects: 0.897052 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40bb31cee7bc77c35a4bcce37f2cf3ed') in 0.970880 seconds 
+  Import took 0.977212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.396783 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Planet_B.prefab
+  artifactKey: Guid(c3ce2985ee6c1410eab58199f6687e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Planet_B.prefab using Guid(c3ce2985ee6c1410eab58199f6687e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0030d8aad324c6ee5106c31a6c8a8f7') in 0.438986 seconds 
+  Import took 0.443859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.910179 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Planet_A.prefab
+  artifactKey: Guid(876034d8a813d4055a6a59a3f46ee3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Planet_A.prefab using Guid(876034d8a813d4055a6a59a3f46ee3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fa5032e69d606ab3c46908dceb6b270') in 0.080517 seconds 
+  Import took 0.085512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.427601 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Planet_C.prefab
+  artifactKey: Guid(1b55951754e9a453fb83da0b37a794e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Planet_C.prefab using Guid(1b55951754e9a453fb83da0b37a794e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba76d816ee629354216f4409bbc7480') in 0.056691 seconds 
+  Import took 0.061105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Star_2.prefab
+  artifactKey: Guid(51a5d0b49bad140edac4ecfcf43cc735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Star_2.prefab using Guid(51a5d0b49bad140edac4ecfcf43cc735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aa659d0a80eca1372bd2b3f1cc285b9') in 0.325872 seconds 
+  Import took 0.332403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000569 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Planet_E.prefab
+  artifactKey: Guid(f6d7d9888849d4cae875b525b25624b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Planet_E.prefab using Guid(f6d7d9888849d4cae875b525b25624b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80769b5f5477c39e1351f5cc25766dd0') in 0.061615 seconds 
+  Import took 0.065670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Star_1.prefab
+  artifactKey: Guid(f2fcdcfe8528943cd9a888fec9e42dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Star_1.prefab using Guid(f2fcdcfe8528943cd9a888fec9e42dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e2eb2dd2090666f4baad02943ee1b09') in 0.215654 seconds 
+  Import took 0.221029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Planet_D.prefab
+  artifactKey: Guid(9103d3ceef61a44baa55094976cf8803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PlanetsAssetBundle/Planet_D.prefab using Guid(9103d3ceef61a44baa55094976cf8803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9909f6cdad8fbfc51ce8a407ac4e92c8') in 0.055250 seconds 
+  Import took 0.059721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.994344 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Large.prefab
+  artifactKey: Guid(3f677c55c590643a39a92828625ffa2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Large.prefab using Guid(3f677c55c590643a39a92828625ffa2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3268e13cffeb1eb10e1bf1eb48585d82') in 0.079537 seconds 
+  Import took 0.084663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Purple.prefab
+  artifactKey: Guid(0174e61fcf2754a60b1d117dc1fc0f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Purple.prefab using Guid(0174e61fcf2754a60b1d117dc1fc0f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e170644bc8180138995664e4168e2933') in 0.077574 seconds 
+  Import took 0.082554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Green.prefab
+  artifactKey: Guid(06b17d9789503440f8edbc1981168541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Green.prefab using Guid(06b17d9789503440f8edbc1981168541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4770c746f98a7c7a111941892eb91ab') in 0.066485 seconds 
+  Import took 0.071710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Orange.prefab
+  artifactKey: Guid(59272916c6e52467face7adf6e7ed8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Orange.prefab using Guid(59272916c6e52467face7adf6e7ed8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de513af9016c3b092558c221b0ed96f1') in 0.073543 seconds 
+  Import took 0.078819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Small.prefab
+  artifactKey: Guid(c9f9765918dae4cb7a7b24b2c8a19baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Small.prefab using Guid(c9f9765918dae4cb7a7b24b2c8a19baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e063ea3198aec4f29af4f58485302f') in 0.056727 seconds 
+  Import took 0.061090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Medium.prefab
+  artifactKey: Guid(dd65002911871477e8b7f01c3acf055b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Medium.prefab using Guid(dd65002911871477e8b7f01c3acf055b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe22e4f669b394598fe572b082794a4') in 0.056099 seconds 
+  Import took 0.060208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.444927 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_GreenGhost.prefab
+  artifactKey: Guid(0aa4fb4a725274dd19e6bfd39349e6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_GreenGhost.prefab using Guid(0aa4fb4a725274dd19e6bfd39349e6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38fa2fc2c86d7ed330d9de85b934e945') in 0.409976 seconds 
+  Import took 0.418290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/PinkGhost.prefab
+  artifactKey: Guid(686ea47b4c12f4744a45b711c0845f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/PinkGhost.prefab using Guid(686ea47b4c12f4744a45b711c0845f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4127c644599f19de8163866e301ccb50') in 0.315567 seconds 
+  Import took 0.322893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/RedGhost.prefab
+  artifactKey: Guid(d4d471e7006f24b44bdad38c0813ad96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/RedGhost.prefab using Guid(d4d471e7006f24b44bdad38c0813ad96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd0906920d3a31c0248e51dfe61f328') in 0.251170 seconds 
+  Import took 0.257786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/YellowGhost.prefab
+  artifactKey: Guid(85cc799e289be40318c2a8baceb9450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/YellowGhost.prefab using Guid(85cc799e289be40318c2a8baceb9450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45397800780f885d4be162a39da0c997') in 0.277884 seconds 
+  Import took 0.284566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_RedGhost.prefab
+  artifactKey: Guid(e491c7040d7e04bb699e002cd195c9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_RedGhost.prefab using Guid(e491c7040d7e04bb699e002cd195c9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf5e7c298a662018be8ef5d94f9f9a7b') in 0.254947 seconds 
+  Import took 0.262806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.391451 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab
+  artifactKey: Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab using Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f77c4d4c3b263140733c39bae270088') in 0.112155 seconds 
+  Import took 0.116833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal2.prefab
+  artifactKey: Guid(78d309eea376a4bb9a1fd8ae34915dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal2.prefab using Guid(78d309eea376a4bb9a1fd8ae34915dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90beaa27aab573bc75505a771deb9610') in 0.101132 seconds 
+  Import took 0.106160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal5.prefab
+  artifactKey: Guid(c6e7d9b3f527e4675affe0fd35f78f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal5.prefab using Guid(c6e7d9b3f527e4675affe0fd35f78f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c115cd488d858642c3fa671f3ef72f91') in 0.068670 seconds 
+  Import took 0.072905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal4.prefab
+  artifactKey: Guid(d0685f0e5842e454484b58fa251ac985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal4.prefab using Guid(d0685f0e5842e454484b58fa251ac985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40dbbc094008cc5fb88b095ab6c430d') in 0.059173 seconds 
+  Import took 0.063230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal6.prefab
+  artifactKey: Guid(6d6c8127375234971b0331640eecf5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal6.prefab using Guid(6d6c8127375234971b0331640eecf5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dccb27b0ef5cb6a7a3f8155444f48723') in 0.057171 seconds 
+  Import took 0.060593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal3.prefab
+  artifactKey: Guid(89474627009d9446da8b1671d9be35ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal3.prefab using Guid(89474627009d9446da8b1671d9be35ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0b07f93ace31f61afb57204098fd57c') in 0.073355 seconds 
+  Import took 0.076349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.306753 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree1.prefab
+  artifactKey: Guid(3fe970ef5e815437e947768b7e769516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree1.prefab using Guid(3fe970ef5e815437e947768b7e769516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ffa5a78a6ceeb1a0bab20a3094b2de') in 0.197492 seconds 
+  Import took 0.202650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree2.prefab
+  artifactKey: Guid(5d4902df7554d4d389949b560bdaeb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree2.prefab using Guid(5d4902df7554d4d389949b560bdaeb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '130c186d78bf71e420b9caaaad950301') in 0.083528 seconds 
+  Import took 0.087850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree1.prefab
+  artifactKey: Guid(4817fe9b721ec4f68a902df6bdc045fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree1.prefab using Guid(4817fe9b721ec4f68a902df6bdc045fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a57d2943e16b72b113e3c855bcb9672') in 0.072078 seconds 
+  Import took 0.075949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree2.prefab
+  artifactKey: Guid(79135845b14b249a2941030bb55ca45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree2.prefab using Guid(79135845b14b249a2941030bb55ca45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d7f1a07e95fe09a3ed0f6f1b57a570') in 0.060514 seconds 
+  Import took 0.064449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree3.prefab
+  artifactKey: Guid(b74e25b718e7143f494dec9bffddeb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree3.prefab using Guid(b74e25b718e7143f494dec9bffddeb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '125dce4a82ecccb352425fcce1fcd6bb') in 0.084515 seconds 
+  Import took 0.090635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree1.prefab
+  artifactKey: Guid(f498d9aafb7f54872801c15e0717151e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree1.prefab using Guid(f498d9aafb7f54872801c15e0717151e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8faed8297e20de2453d94a615022f986') in 0.065166 seconds 
+  Import took 0.069258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree2.prefab
+  artifactKey: Guid(cc5a179ce1a9d4bd5b949fb30bf215cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree2.prefab using Guid(cc5a179ce1a9d4bd5b949fb30bf215cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd012eb49d2275178771468d8803db701') in 0.078826 seconds 
+  Import took 0.082692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree3.prefab
+  artifactKey: Guid(548f55f3fbb68409b8db676f398f375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree3.prefab using Guid(548f55f3fbb68409b8db676f398f375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8536c6a4ba81046ee746fc597d8c2334') in 0.071237 seconds 
+  Import took 0.075172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree3.prefab
+  artifactKey: Guid(92692877aadaa41548786ea03060f1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree3.prefab using Guid(92692877aadaa41548786ea03060f1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df0cdd01b669e66923e5dc9cdc1959d') in 0.075052 seconds 
+  Import took 0.079734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.617132 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/Vast Outer Space
+  artifactKey: Guid(a093b6c5a9cc84eb795836d70e6d27fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/Vast Outer Space using Guid(a093b6c5a9cc84eb795836d70e6d27fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5b1939b119224bbe9c7b43130ded776') in 0.001688 seconds 
+  Import took 0.007924 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 242.1 MB.
+System memory in use after: 242.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2300.
+Total: 3.368791 ms (FindLiveObjects: 0.205560 ms CreateObjectMapping: 0.067095 ms MarkObjects: 3.080997 ms  DeleteObjects: 0.014166 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 828.180479 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_GreenGhost.prefab
+  artifactKey: Guid(0aa4fb4a725274dd19e6bfd39349e6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_GreenGhost.prefab using Guid(0aa4fb4a725274dd19e6bfd39349e6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17edd6473c04e00afc5d582eff5dd6f2') in 0.379853 seconds 
+  Import took 0.388415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.058534 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_GreenGhost.prefab
+  artifactKey: Guid(0aa4fb4a725274dd19e6bfd39349e6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_GreenGhost.prefab using Guid(0aa4fb4a725274dd19e6bfd39349e6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ecb8e4744acc401598155449b8b322') in 0.265455 seconds 
+  Import took 0.273761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.360807 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_RedGhost.prefab
+  artifactKey: Guid(e491c7040d7e04bb699e002cd195c9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_RedGhost.prefab using Guid(e491c7040d7e04bb699e002cd195c9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a17b85a22ab5d28a626472c230c3f9d') in 0.281420 seconds 
+  Import took 0.288938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.534670 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_RedGhost.prefab
+  artifactKey: Guid(e491c7040d7e04bb699e002cd195c9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_RedGhost.prefab using Guid(e491c7040d7e04bb699e002cd195c9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f912996f22d743684fdd9e9fe0e4f62a') in 0.312100 seconds 
+  Import took 0.321301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.796898 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/PinkGhost.prefab
+  artifactKey: Guid(686ea47b4c12f4744a45b711c0845f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/PinkGhost.prefab using Guid(686ea47b4c12f4744a45b711c0845f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f70a30674635e8443f67f2ecb9bec18') in 0.288298 seconds 
+  Import took 0.295512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.506146 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/PinkGhost.prefab
+  artifactKey: Guid(686ea47b4c12f4744a45b711c0845f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/PinkGhost.prefab using Guid(686ea47b4c12f4744a45b711c0845f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44cfee5ede183ef5b14983d59ac5266d') in 0.318688 seconds 
+  Import took 0.328729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.224895 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/RedGhost.prefab
+  artifactKey: Guid(d4d471e7006f24b44bdad38c0813ad96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/RedGhost.prefab using Guid(d4d471e7006f24b44bdad38c0813ad96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b92d7fb7bf5ea9bd28fbb4fcb81b959e') in 0.256652 seconds 
+  Import took 0.265129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.929630 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/RedGhost.prefab
+  artifactKey: Guid(d4d471e7006f24b44bdad38c0813ad96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/RedGhost.prefab using Guid(d4d471e7006f24b44bdad38c0813ad96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffeaacc21e17b87dcf512486ddc06f71') in 0.307288 seconds 
+  Import took 0.316779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.512835 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/YellowGhost.prefab
+  artifactKey: Guid(85cc799e289be40318c2a8baceb9450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/YellowGhost.prefab using Guid(85cc799e289be40318c2a8baceb9450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '707f1f07ae8068d88fcdde98da75704d') in 0.316202 seconds 
+  Import took 0.328340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.521761 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/YellowGhost.prefab
+  artifactKey: Guid(85cc799e289be40318c2a8baceb9450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/YellowGhost.prefab using Guid(85cc799e289be40318c2a8baceb9450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d3dd0e0a99b4372dbe603eb4eef5bc') in 0.265064 seconds 
+  Import took 0.272754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 315.084876 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Large.prefab
+  artifactKey: Guid(3f677c55c590643a39a92828625ffa2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Large.prefab using Guid(3f677c55c590643a39a92828625ffa2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c4b1ad664eca649e399d3ae0f837dfa') in 0.073591 seconds 
+  Import took 0.077536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.654291 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Medium.prefab
+  artifactKey: Guid(dd65002911871477e8b7f01c3acf055b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Medium.prefab using Guid(dd65002911871477e8b7f01c3acf055b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7dabfdcf4b23467940a871dc77e63a') in 0.069017 seconds 
+  Import took 0.073781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.727387 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Medium.prefab
+  artifactKey: Guid(dd65002911871477e8b7f01c3acf055b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Medium.prefab using Guid(dd65002911871477e8b7f01c3acf055b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa861e9be099fb37c4c5d2bb66d36672') in 0.064707 seconds 
+  Import took 0.069360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.577126 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Small.prefab
+  artifactKey: Guid(c9f9765918dae4cb7a7b24b2c8a19baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Small.prefab using Guid(c9f9765918dae4cb7a7b24b2c8a19baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '549b7075b6bf7f31a5d9b7b6c8878985') in 0.078762 seconds 
+  Import took 0.083950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.723773 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Small.prefab
+  artifactKey: Guid(c9f9765918dae4cb7a7b24b2c8a19baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Small.prefab using Guid(c9f9765918dae4cb7a7b24b2c8a19baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f08360326e0248686e18d07c62218a18') in 0.066293 seconds 
+  Import took 0.071047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.878748 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Green.prefab
+  artifactKey: Guid(06b17d9789503440f8edbc1981168541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Green.prefab using Guid(06b17d9789503440f8edbc1981168541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dab5b20519ef11bf533bc49c5d03987b') in 0.077853 seconds 
+  Import took 0.082517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.481673 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Orange.prefab
+  artifactKey: Guid(59272916c6e52467face7adf6e7ed8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Orange.prefab using Guid(59272916c6e52467face7adf6e7ed8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46cca595af9811223c5f0acae32caff7') in 0.057925 seconds 
+  Import took 0.061338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.747833 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Orange.prefab
+  artifactKey: Guid(59272916c6e52467face7adf6e7ed8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Orange.prefab using Guid(59272916c6e52467face7adf6e7ed8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df0147f5c2a5bfdc9c79d4de8046a4b') in 0.059732 seconds 
+  Import took 0.063498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.687574 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Purple.prefab
+  artifactKey: Guid(0174e61fcf2754a60b1d117dc1fc0f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Purple.prefab using Guid(0174e61fcf2754a60b1d117dc1fc0f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '800dbf7abf271581f396bd6a563393a3') in 0.071447 seconds 
+  Import took 0.076564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.932499 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Purple.prefab
+  artifactKey: Guid(0174e61fcf2754a60b1d117dc1fc0f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Purple.prefab using Guid(0174e61fcf2754a60b1d117dc1fc0f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93406c77c2d8d9548d57577a4c6fa7c') in 0.063912 seconds 
+  Import took 0.068153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.207017 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Large.prefab
+  artifactKey: Guid(3f677c55c590643a39a92828625ffa2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Large.prefab using Guid(3f677c55c590643a39a92828625ffa2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef0db11803cd7eab8c81baf14c134a8f') in 0.068104 seconds 
+  Import took 0.072396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Purple.prefab
+  artifactKey: Guid(0174e61fcf2754a60b1d117dc1fc0f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Purple.prefab using Guid(0174e61fcf2754a60b1d117dc1fc0f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3424a2e95c16380f9c4e13180113771') in 0.077268 seconds 
+  Import took 0.081898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Green.prefab
+  artifactKey: Guid(06b17d9789503440f8edbc1981168541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Green.prefab using Guid(06b17d9789503440f8edbc1981168541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e2cf3f798b220d129b0535d7c00e79') in 0.084036 seconds 
+  Import took 0.088426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Orange.prefab
+  artifactKey: Guid(59272916c6e52467face7adf6e7ed8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Nebula_Orange.prefab using Guid(59272916c6e52467face7adf6e7ed8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbeddb31220b604e6fc5ece681192e36') in 0.061933 seconds 
+  Import took 0.067384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Small.prefab
+  artifactKey: Guid(c9f9765918dae4cb7a7b24b2c8a19baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Small.prefab using Guid(c9f9765918dae4cb7a7b24b2c8a19baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7380d6cc9d10a6e37153f2a4144ea99') in 0.058773 seconds 
+  Import took 0.062223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Medium.prefab
+  artifactKey: Guid(dd65002911871477e8b7f01c3acf055b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GalaxiesAssetBundle/Galaxy_Medium.prefab using Guid(dd65002911871477e8b7f01c3acf055b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42761eddef6dc98fce92b5ae1ad15e3a') in 0.060779 seconds 
+  Import took 0.064725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.959259 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_RedGhost.prefab
+  artifactKey: Guid(e491c7040d7e04bb699e002cd195c9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/Black_RedGhost.prefab using Guid(e491c7040d7e04bb699e002cd195c9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc78208cf9b395c942c8dce01deacba0') in 0.311735 seconds 
+  Import took 0.324469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/PinkGhost.prefab
+  artifactKey: Guid(686ea47b4c12f4744a45b711c0845f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/PinkGhost.prefab using Guid(686ea47b4c12f4744a45b711c0845f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e810d6a5c27243c5fa12f790cb139ca8') in 0.281382 seconds 
+  Import took 0.287785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/RedGhost.prefab
+  artifactKey: Guid(d4d471e7006f24b44bdad38c0813ad96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/RedGhost.prefab using Guid(d4d471e7006f24b44bdad38c0813ad96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963081cf3e3eeb1e0c6832f3ca61714a') in 0.258755 seconds 
+  Import took 0.266605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/YellowGhost.prefab
+  artifactKey: Guid(85cc799e289be40318c2a8baceb9450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/GhostAssetBundle/YellowGhost.prefab using Guid(85cc799e289be40318c2a8baceb9450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b95df9e57e448e6d04c5b6af0ebccc7') in 0.285087 seconds 
+  Import took 0.292804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8414.508043 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab
+  artifactKey: Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab using Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e77a6afaa81226b2392eb7e8a42ad6') in 0.147312 seconds 
+  Import took 0.151275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.049740 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab
+  artifactKey: Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab using Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9128f4e338002a6d61f63b4bbbbd5d') in 0.081979 seconds 
+  Import took 0.086377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.729617 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab
+  artifactKey: Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab using Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd527708f5a2128d32f02ee93d23379d') in 0.068175 seconds 
+  Import took 0.072627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.848333 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal2.prefab
+  artifactKey: Guid(78d309eea376a4bb9a1fd8ae34915dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal2.prefab using Guid(78d309eea376a4bb9a1fd8ae34915dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09233f31d8bf82d6d6ae249e5d4445d5') in 0.071489 seconds 
+  Import took 0.076147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.714642 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal2.prefab
+  artifactKey: Guid(78d309eea376a4bb9a1fd8ae34915dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal2.prefab using Guid(78d309eea376a4bb9a1fd8ae34915dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e986ec5dbe180405c97cdcec63a170bd') in 0.085857 seconds 
+  Import took 0.089840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.634088 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal2.prefab
+  artifactKey: Guid(78d309eea376a4bb9a1fd8ae34915dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal2.prefab using Guid(78d309eea376a4bb9a1fd8ae34915dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4145384446ca8b01951c53db3d4fb49') in 0.063433 seconds 
+  Import took 0.067186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.948762 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal3.prefab
+  artifactKey: Guid(89474627009d9446da8b1671d9be35ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal3.prefab using Guid(89474627009d9446da8b1671d9be35ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c4cb0096692257f84507f631e98928') in 0.099060 seconds 
+  Import took 0.103990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.719178 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal3.prefab
+  artifactKey: Guid(89474627009d9446da8b1671d9be35ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal3.prefab using Guid(89474627009d9446da8b1671d9be35ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e90a309aec239598ef8fa47e0f765b3') in 0.082502 seconds 
+  Import took 0.087238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.391157 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal3.prefab
+  artifactKey: Guid(89474627009d9446da8b1671d9be35ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal3.prefab using Guid(89474627009d9446da8b1671d9be35ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3132db2e69d5a82a6351f454bcca89e1') in 0.087600 seconds 
+  Import took 0.092902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.455335 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal4.prefab
+  artifactKey: Guid(d0685f0e5842e454484b58fa251ac985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal4.prefab using Guid(d0685f0e5842e454484b58fa251ac985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4703654bbd0a21b6bfb5b84e7a351e2') in 0.073204 seconds 
+  Import took 0.077992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.915049 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal4.prefab
+  artifactKey: Guid(d0685f0e5842e454484b58fa251ac985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal4.prefab using Guid(d0685f0e5842e454484b58fa251ac985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed4bf8425d579a8b134142b6600f0caf') in 0.069986 seconds 
+  Import took 0.074438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.347977 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal4.prefab
+  artifactKey: Guid(d0685f0e5842e454484b58fa251ac985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal4.prefab using Guid(d0685f0e5842e454484b58fa251ac985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48caa5a02fc3973432a68c586d138431') in 0.094257 seconds 
+  Import took 0.100514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.703727 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal5.prefab
+  artifactKey: Guid(c6e7d9b3f527e4675affe0fd35f78f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal5.prefab using Guid(c6e7d9b3f527e4675affe0fd35f78f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b9e83879ec60b4e7477aaf558fe6063') in 0.075648 seconds 
+  Import took 0.079565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.714094 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal5.prefab
+  artifactKey: Guid(c6e7d9b3f527e4675affe0fd35f78f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal5.prefab using Guid(c6e7d9b3f527e4675affe0fd35f78f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee73ae07e6937b5e23daf992e32dfd88') in 0.077237 seconds 
+  Import took 0.081588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.515804 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal5.prefab
+  artifactKey: Guid(c6e7d9b3f527e4675affe0fd35f78f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal5.prefab using Guid(c6e7d9b3f527e4675affe0fd35f78f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6793fed60d23e69a3ffa20e4dbcae6e6') in 0.075573 seconds 
+  Import took 0.080110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.729515 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal6.prefab
+  artifactKey: Guid(6d6c8127375234971b0331640eecf5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal6.prefab using Guid(6d6c8127375234971b0331640eecf5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aeb5dfe51e2209fa0a853788352a40b') in 0.100288 seconds 
+  Import took 0.106866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.896263 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal6.prefab
+  artifactKey: Guid(6d6c8127375234971b0331640eecf5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal6.prefab using Guid(6d6c8127375234971b0331640eecf5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c162c5c51b6860778e9601e3ed194a50') in 0.079229 seconds 
+  Import took 0.083509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.128201 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal6.prefab
+  artifactKey: Guid(6d6c8127375234971b0331640eecf5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal6.prefab using Guid(6d6c8127375234971b0331640eecf5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2bd000c561b3d58ef6b79bd1c708ef2') in 0.098821 seconds 
+  Import took 0.103091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.179631 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab
+  artifactKey: Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab using Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbee565619cb6a65721745ad12695aa4') in 0.075698 seconds 
+  Import took 0.079299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.791218 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab
+  artifactKey: Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab using Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d3a06c97e05dab2649b495fd98c8fca') in 0.081676 seconds 
+  Import took 0.086534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.682520 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal2.prefab
+  artifactKey: Guid(78d309eea376a4bb9a1fd8ae34915dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal2.prefab using Guid(78d309eea376a4bb9a1fd8ae34915dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2e7b8e7335154940d505f25ae20de5') in 0.071379 seconds 
+  Import took 0.076061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.334382 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal2.prefab
+  artifactKey: Guid(78d309eea376a4bb9a1fd8ae34915dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal2.prefab using Guid(78d309eea376a4bb9a1fd8ae34915dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ee630ee5a6209d6be2f0df90f94f91') in 0.062151 seconds 
+  Import took 0.066525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.116316 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal3.prefab
+  artifactKey: Guid(89474627009d9446da8b1671d9be35ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal3.prefab using Guid(89474627009d9446da8b1671d9be35ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0da5eb674c747b2943aab759775ab47f') in 0.103643 seconds 
+  Import took 0.109309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.259154 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal3.prefab
+  artifactKey: Guid(89474627009d9446da8b1671d9be35ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal3.prefab using Guid(89474627009d9446da8b1671d9be35ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee39f1cfd489ccdd1b5d39162df3061e') in 0.072852 seconds 
+  Import took 0.077267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.213339 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal4.prefab
+  artifactKey: Guid(d0685f0e5842e454484b58fa251ac985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal4.prefab using Guid(d0685f0e5842e454484b58fa251ac985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4dc694c87648ee0e299b99506e47719') in 0.084304 seconds 
+  Import took 0.089063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.913844 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal4.prefab
+  artifactKey: Guid(d0685f0e5842e454484b58fa251ac985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal4.prefab using Guid(d0685f0e5842e454484b58fa251ac985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832da86567204466e4e6cd2b221d25ad') in 0.075157 seconds 
+  Import took 0.080303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.025745 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal5.prefab
+  artifactKey: Guid(c6e7d9b3f527e4675affe0fd35f78f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal5.prefab using Guid(c6e7d9b3f527e4675affe0fd35f78f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a59f08a1a4e23138f14479547201ee4') in 0.085335 seconds 
+  Import took 0.089229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.681715 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal5.prefab
+  artifactKey: Guid(c6e7d9b3f527e4675affe0fd35f78f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal5.prefab using Guid(c6e7d9b3f527e4675affe0fd35f78f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01bf43acd285bc643681ea2c7b12ed3c') in 0.077165 seconds 
+  Import took 0.081181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.054237 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal6.prefab
+  artifactKey: Guid(6d6c8127375234971b0331640eecf5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal6.prefab using Guid(6d6c8127375234971b0331640eecf5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6205857a53540fe031ef4a0c1b7e6d') in 0.085520 seconds 
+  Import took 0.090526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.069742 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal6.prefab
+  artifactKey: Guid(6d6c8127375234971b0331640eecf5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal6.prefab using Guid(6d6c8127375234971b0331640eecf5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9170c3950bf542ed73d90fffaa0d76c9') in 0.068615 seconds 
+  Import took 0.072980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.288629 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab
+  artifactKey: Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/PortalAssetBundle/Portal1.prefab using Guid(1919d1b94eca74a90a106a5fde98811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c016471989c30d9e38d5b3e0405196e') in 0.074619 seconds 
+  Import took 0.079445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.898516 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree1.prefab
+  artifactKey: Guid(3fe970ef5e815437e947768b7e769516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree1.prefab using Guid(3fe970ef5e815437e947768b7e769516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57039a2a2fd9fbe97b5cba1aa43c83f6') in 0.123086 seconds 
+  Import took 0.127926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.848247 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree1.prefab
+  artifactKey: Guid(3fe970ef5e815437e947768b7e769516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree1.prefab using Guid(3fe970ef5e815437e947768b7e769516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692d18825808f22c19cc1ff9952e224e') in 0.083407 seconds 
+  Import took 0.087677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.462495 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree2.prefab
+  artifactKey: Guid(5d4902df7554d4d389949b560bdaeb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree2.prefab using Guid(5d4902df7554d4d389949b560bdaeb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f50eaab9ecde649fdcf12f49213fc2c8') in 0.107708 seconds 
+  Import took 0.112151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.930166 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree2.prefab
+  artifactKey: Guid(5d4902df7554d4d389949b560bdaeb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree2.prefab using Guid(5d4902df7554d4d389949b560bdaeb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86bc43b9242f8c50d0d86985ab1be30a') in 0.073674 seconds 
+  Import took 0.079361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.996385 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree2.prefab
+  artifactKey: Guid(5d4902df7554d4d389949b560bdaeb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree2.prefab using Guid(5d4902df7554d4d389949b560bdaeb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7db7d011da13f8d5b663db9f5252bb') in 0.079430 seconds 
+  Import took 0.084960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.685144 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree3.prefab
+  artifactKey: Guid(548f55f3fbb68409b8db676f398f375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree3.prefab using Guid(548f55f3fbb68409b8db676f398f375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94bbf841fa31917edc9dda6f168d57e') in 0.085630 seconds 
+  Import took 0.089743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.781730 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree3.prefab
+  artifactKey: Guid(548f55f3fbb68409b8db676f398f375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree3.prefab using Guid(548f55f3fbb68409b8db676f398f375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea04fb65e061b86087b9ea3a5f62723') in 0.068578 seconds 
+  Import took 0.073824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.855268 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree1.prefab
+  artifactKey: Guid(4817fe9b721ec4f68a902df6bdc045fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree1.prefab using Guid(4817fe9b721ec4f68a902df6bdc045fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '559c0c0ccf29e4c37e6a6e5e0340877c') in 0.082961 seconds 
+  Import took 0.087667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.537776 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree1.prefab
+  artifactKey: Guid(4817fe9b721ec4f68a902df6bdc045fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree1.prefab using Guid(4817fe9b721ec4f68a902df6bdc045fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d3774c940ebe24e2b30649dc47587f') in 0.092629 seconds 
+  Import took 0.098035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.048921 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree2.prefab
+  artifactKey: Guid(cc5a179ce1a9d4bd5b949fb30bf215cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree2.prefab using Guid(cc5a179ce1a9d4bd5b949fb30bf215cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ecf95ca0c2ae2c0bc649b5767a8078d') in 0.070993 seconds 
+  Import took 0.075364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.596494 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree2.prefab
+  artifactKey: Guid(cc5a179ce1a9d4bd5b949fb30bf215cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree2.prefab using Guid(cc5a179ce1a9d4bd5b949fb30bf215cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be64c2b94317ee140db0180f2a5f88c') in 0.086357 seconds 
+  Import took 0.090148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.831136 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree3.prefab
+  artifactKey: Guid(b74e25b718e7143f494dec9bffddeb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree3.prefab using Guid(b74e25b718e7143f494dec9bffddeb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d9fe815f942c64a320f5cac543e3e4c') in 0.075923 seconds 
+  Import took 0.080460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.042828 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree3.prefab
+  artifactKey: Guid(b74e25b718e7143f494dec9bffddeb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree3.prefab using Guid(b74e25b718e7143f494dec9bffddeb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6d6d39a760c60032481e6ab350f8100') in 0.069873 seconds 
+  Import took 0.074410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.814355 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree1.prefab
+  artifactKey: Guid(f498d9aafb7f54872801c15e0717151e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree1.prefab using Guid(f498d9aafb7f54872801c15e0717151e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677ac509f2d7b7a586432009085d87d1') in 0.093033 seconds 
+  Import took 0.097226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.897555 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree1.prefab
+  artifactKey: Guid(f498d9aafb7f54872801c15e0717151e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree1.prefab using Guid(f498d9aafb7f54872801c15e0717151e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24d747583d864439e7d3139f9e8c181') in 0.071803 seconds 
+  Import took 0.076226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.582093 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree2.prefab
+  artifactKey: Guid(79135845b14b249a2941030bb55ca45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree2.prefab using Guid(79135845b14b249a2941030bb55ca45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e1b069261875a1bbd4de4b2ad34b76') in 0.078246 seconds 
+  Import took 0.082013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.310218 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree2.prefab
+  artifactKey: Guid(79135845b14b249a2941030bb55ca45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree2.prefab using Guid(79135845b14b249a2941030bb55ca45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661b61727216fdd2008401a4f5e30d9c') in 0.073997 seconds 
+  Import took 0.078248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.333000 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree3.prefab
+  artifactKey: Guid(92692877aadaa41548786ea03060f1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree3.prefab using Guid(92692877aadaa41548786ea03060f1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df8d971316348a47c2d224bdd94fdc36') in 0.078233 seconds 
+  Import took 0.083231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.884086 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree3.prefab
+  artifactKey: Guid(92692877aadaa41548786ea03060f1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree3.prefab using Guid(92692877aadaa41548786ea03060f1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04102000ae224db15e067aa119520a2e') in 0.072396 seconds 
+  Import took 0.077206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.853333 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree1.prefab
+  artifactKey: Guid(3fe970ef5e815437e947768b7e769516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree1.prefab using Guid(3fe970ef5e815437e947768b7e769516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f6f3385891bf161f792e574577358d') in 0.076385 seconds 
+  Import took 0.080967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.547630 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree3.prefab
+  artifactKey: Guid(548f55f3fbb68409b8db676f398f375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/PurpleTree3.prefab using Guid(548f55f3fbb68409b8db676f398f375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff3bae4fbafacb18c0db6176518816ff') in 0.070322 seconds 
+  Import took 0.073924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.574471 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree1.prefab
+  artifactKey: Guid(4817fe9b721ec4f68a902df6bdc045fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree1.prefab using Guid(4817fe9b721ec4f68a902df6bdc045fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6884178358408e379d1df049b5204bc5') in 0.076957 seconds 
+  Import took 0.081130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.592417 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree2.prefab
+  artifactKey: Guid(cc5a179ce1a9d4bd5b949fb30bf215cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree2.prefab using Guid(cc5a179ce1a9d4bd5b949fb30bf215cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98d38778a35803f122b4f12dd2598250') in 0.080701 seconds 
+  Import took 0.086160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.515464 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree3.prefab
+  artifactKey: Guid(b74e25b718e7143f494dec9bffddeb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/RedTree3.prefab using Guid(b74e25b718e7143f494dec9bffddeb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7484e4b3eef55978864783bce1f783') in 0.069847 seconds 
+  Import took 0.074238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.824428 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree1.prefab
+  artifactKey: Guid(f498d9aafb7f54872801c15e0717151e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree1.prefab using Guid(f498d9aafb7f54872801c15e0717151e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9f1e78b8efe9254539e5f000a290bf5') in 0.072705 seconds 
+  Import took 0.077398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.636179 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree2.prefab
+  artifactKey: Guid(79135845b14b249a2941030bb55ca45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree2.prefab using Guid(79135845b14b249a2941030bb55ca45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1c592373f6ed7610e34c74758d90741') in 0.082843 seconds 
+  Import took 0.086514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.499571 seconds.
+  path: Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree3.prefab
+  artifactKey: Guid(92692877aadaa41548786ea03060f1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bamboo/Prefab/Sayali/TreesAssetBundle/Tree3.prefab using Guid(92692877aadaa41548786ea03060f1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2faa7548bdc8c7de4015d553a39bd4d7') in 0.079817 seconds 
+  Import took 0.084943 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 246.0 MB.
+System memory in use after: 246.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2300.
+Total: 3.651228 ms (FindLiveObjects: 0.215824 ms CreateObjectMapping: 0.067826 ms MarkObjects: 3.347540 ms  DeleteObjects: 0.019046 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001624 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2023-02-21 22:08:55.076 Unity[10988:336682] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600002f9f330 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.231 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1234ms)
+		BeginReloadAssembly (130ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (58ms)
+		EndReloadAssembly (1033ms)
+			LoadAssemblies (80ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (344ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (395ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (133ms)
+				ProcessInitializeOnLoadAttributes (250ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1776 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 273.9 MB.
+System memory in use after: 274.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 3.427763 ms (FindLiveObjects: 0.222176 ms CreateObjectMapping: 0.065494 ms MarkObjects: 3.120608 ms  DeleteObjects: 0.018388 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 239.2 MB.
+System memory in use after: 239.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 3.407608 ms (FindLiveObjects: 0.193692 ms CreateObjectMapping: 0.083126 ms MarkObjects: 3.115020 ms  DeleteObjects: 0.014931 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 237.9 MB.
+System memory in use after: 238.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 3.698570 ms (FindLiveObjects: 0.197210 ms CreateObjectMapping: 0.070828 ms MarkObjects: 3.409350 ms  DeleteObjects: 0.019957 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 236.7 MB.
+System memory in use after: 236.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 3.612073 ms (FindLiveObjects: 0.197281 ms CreateObjectMapping: 0.062747 ms MarkObjects: 3.332207 ms  DeleteObjects: 0.018954 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

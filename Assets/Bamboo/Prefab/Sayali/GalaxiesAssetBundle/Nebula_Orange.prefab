@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5704791084828163616}
   - component: {fileID: 5704791084826659272}
   - component: {fileID: 7407227847788722124}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Nebula_Orange
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 5704791084824964200}
   m_LocalRotation: {x: 0.5411979, y: 0.15934731, z: -0.10083104, w: 0.81947935}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 10, y: 10, z: 10}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
