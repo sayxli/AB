@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2439041023
+CRC: 2017219811
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -12,92 +12,83 @@ AssetBundleManifest:
       Name: purpletree1.ab
       Dependencies: {}
     Info_3:
-      Name: redtree3.ab
-      Dependencies: {}
-    Info_4:
       Name: redtree2.ab
       Dependencies: {}
-    Info_5:
+    Info_4:
       Name: redtree1.ab
       Dependencies: {}
-    Info_6:
-      Name: tree3.ab
-      Dependencies: {}
-    Info_7:
-      Name: purpletree3.ab
-      Dependencies: {}
-    Info_8:
+    Info_5:
       Name: tree2.ab
       Dependencies: {}
-    Info_9:
+    Info_6:
       Name: black_greenghost.ab
       Dependencies: {}
-    Info_10:
+    Info_7:
       Name: yellowghost.ab
       Dependencies: {}
-    Info_11:
+    Info_8:
       Name: redghost.ab
       Dependencies: {}
-    Info_12:
+    Info_9:
       Name: pinkghost.ab
       Dependencies: {}
-    Info_13:
+    Info_10:
       Name: black_redghost.ab
       Dependencies: {}
-    Info_14:
+    Info_11:
       Name: star_1.ab
       Dependencies: {}
-    Info_15:
+    Info_12:
       Name: planet_d.ab
       Dependencies: {}
-    Info_16:
+    Info_13:
       Name: planet_b.ab
       Dependencies: {}
-    Info_17:
+    Info_14:
       Name: star_2.ab
       Dependencies: {}
-    Info_18:
+    Info_15:
       Name: planet_e.ab
       Dependencies: {}
-    Info_19:
+    Info_16:
       Name: planet_c.ab
       Dependencies: {}
-    Info_20:
+    Info_17:
       Name: planet_a.ab
       Dependencies: {}
-    Info_21:
+    Info_18:
       Name: portal6.ab
       Dependencies: {}
-    Info_22:
+    Info_19:
       Name: portal5.ab
       Dependencies: {}
-    Info_23:
+    Info_20:
       Name: portal4.ab
       Dependencies: {}
-    Info_24:
+    Info_21:
       Name: portal3.ab
       Dependencies: {}
-    Info_25:
+    Info_22:
       Name: portal2.ab
       Dependencies: {}
-    Info_26:
+    Info_23:
       Name: portal1.ab
       Dependencies: {}
-    Info_27:
+    Info_24:
       Name: nebula_orange.ab
       Dependencies: {}
-    Info_28:
+    Info_25:
       Name: nebula_green.ab
       Dependencies: {}
-    Info_29:
+    Info_26:
       Name: galaxy_small.ab
       Dependencies: {}
-    Info_30:
+    Info_27:
       Name: galaxy_medium.ab
       Dependencies: {}
-    Info_31:
+    Info_28:
       Name: galaxy_large.ab
       Dependencies: {}
-    Info_32:
+    Info_29:
       Name: nebula_purple.ab
       Dependencies: {}

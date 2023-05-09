@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{FFCBEAB7-5E3A-27AD-CF99-3CF61A477E20}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AudioController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AudioController.cs" Line="11" Column="49" />
+      <File FileName="Assets/BlendShapesController.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9c359050-8820-4a5d-8d84-efc7fd3659c5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
